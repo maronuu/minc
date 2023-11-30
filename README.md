@@ -1,2 +1,1 @@
-# minc_rust
 # minc
